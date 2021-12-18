@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JavaScript.
 - 🌱 I’m currently learning FireBase, jQuery, Bootstrap, React, NodeJS and MongoDB.
 - 💞️ I’m looking to collaborate on Front-end Projects.
-- 📫 You can reach me on my Email (marcoslopes31@hotmail.com) or Twitter (@marcoscodes).
+- 📫 You can reach me on my Email (marcoslopes31@hotmail.com) or LinkedIn (https://www.linkedin.com/in/marcosighs/).
 - 💻 I'm open to work!
 
 I also write on medium sometimes. You can find my profile here: https://medium.com/@marcoslopes_23997
